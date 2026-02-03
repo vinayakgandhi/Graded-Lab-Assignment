@@ -1,0 +1,36 @@
+Background File Mover
+================================
+Source directory: testdir
+Backup directory: testdir/backup
+Current script PID (76431): 76431
+
+================================
+Moving files in background:
+================================
+Moving 'file1.txt' -> backup/ (PID: 76436)
+Moving 'file2.txt' -> backup/ (PID: 76439)
+Moving 'file3.doc' -> backup/ (PID: 76443)
+
+================================
+Background processes started: 3
+PIDs: 76436 76439 76443
+================================
+
+Waiting for all background processes to finish...
+  Process 76436 completed successfully.
+  Process 76439 completed successfully.
+  Process 76443 completed successfully.
+
+================================
+All background processes completed.
+Files moved to: testdir/backup
+
+Backup directory contents:
+  total 24
+  drwxr-xr-x@ 5 vinayakgandhi  staff  160 Feb  3 23:14 .
+  drwxr-xr-x@ 3 vinayakgandhi  staff   96 Feb  3 23:14 ..
+  -rw-r--r--@ 1 vinayakgandhi  staff    6 Feb  3 23:14 file1.txt
+  -rw-r--r--@ 1 vinayakgandhi  staff    6 Feb  3 23:14 file2.txt
+  -rw-r--r--@ 1 vinayakgandhi  staff    6 Feb  3 23:14 file3.doc
+================================
+Background move complete.

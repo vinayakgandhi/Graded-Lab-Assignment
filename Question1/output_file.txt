@@ -1,0 +1,5 @@
+File: sample_file.txt
+---
+Lines:        5
+Words:       20
+Characters:      105

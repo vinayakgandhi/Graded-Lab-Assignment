@@ -1,0 +1,33 @@
+Pattern Classification
+
+Vowels only (       3):
+a
+ae
+i
+
+Consonants only (       8):
+cry
+dry
+fly
+myth
+rhythm
+sky
+try
+why
+
+Mixed starting with consonant (      21):
+blue
+for
+going
+grass
+green
+has
+hello
+no
+queue
+short
+store
+test
+the
+this
+to

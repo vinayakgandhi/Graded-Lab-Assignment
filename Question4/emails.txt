@@ -1,0 +1,17 @@
+john@example.com
+jane.doe@company.com
+alice123@domain.com
+bob@test.com
+invalid-email
+user@domain
+test@123.com
+admin@company.com
+john@example.com
+support@help.com
+no-at-sign.com
+@nodomain.com
+user123@test.com
+spaces in@email.com
+bob@test.com
+valid99@mail.com
+user@domain.org

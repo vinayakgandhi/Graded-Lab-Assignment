@@ -1,0 +1,14 @@
+Results Validation
+Pass marks: 33
+
+Passed all: Alice Johnson (78, 85, 92)
+Failed 1 subject: Bob Smith (25, 67, 88)
+Failed 1 subject: Charlie Brown (45, 30, 55)
+Passed all: Diana Ross (90, 88, 95)
+Passed all: Edward Lee (33, 40, 50)
+Passed all: George Miller (55, 60, 65)
+Failed 1 subject: Helen Troy (40, 25, 55)
+Passed all: Ivan Drago (100, 98, 97)
+Passed all: Julia Roberts (35, 35, 35)
+
+Done

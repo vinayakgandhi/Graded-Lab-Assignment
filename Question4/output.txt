@@ -1,0 +1,20 @@
+Email Cleaning Done
+
+Valid emails (       7):
+admin@company.com
+alice123@domain.com
+bob@test.com
+john@example.com
+support@help.com
+user123@test.com
+valid99@mail.com
+
+Invalid emails (       8):
+jane.doe@company.com
+invalid-email
+user@domain
+test@123.com
+no-at-sign.com
+@nodomain.com
+spaces in@email.com
+user@domain.org

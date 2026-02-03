@@ -1,0 +1,4 @@
+Directory: sample_dir
+---
+Total files:        4
+TXT files:        3

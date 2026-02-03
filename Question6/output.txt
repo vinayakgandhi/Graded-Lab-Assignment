@@ -1,0 +1,6 @@
+Analyzing: input.txt
+
+Longest word: capabilities (12 chars)
+Shortest word: a (1 chars)
+Unique words:       51
+Avg word length: 5.16

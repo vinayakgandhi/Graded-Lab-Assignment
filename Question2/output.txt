@@ -1,0 +1,11 @@
+Log Analysis for: sample.log
+---
+Total entries:       10
+INFO: 4
+WARNING: 3
+ERROR: 3
+
+Last ERROR:
+2025-01-12 10:21:05 ERROR Database connection failed
+
+Report saved: logsummary_2026-02-03.txt

@@ -1,0 +1,11 @@
+RollNo, Name, Marks1, Marks2, Marks3
+101, Alice Johnson, 78, 85, 92
+102, Bob Smith, 25, 67, 88
+103, Charlie Brown, 45, 30, 55
+104, Diana Ross, 90, 88, 95
+105, Edward Lee, 33, 40, 50
+106, Fiona Apple, 28, 32, 30
+107, George Miller, 55, 60, 65
+108, Helen Troy, 40, 25, 55
+109, Ivan Drago, 100, 98, 97
+110, Julia Roberts, 35, 35, 35

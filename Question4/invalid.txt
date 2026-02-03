@@ -1,0 +1,8 @@
+jane.doe@company.com
+invalid-email
+user@domain
+test@123.com
+no-at-sign.com
+@nodomain.com
+spaces in@email.com
+user@domain.org

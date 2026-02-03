@@ -1,0 +1,11 @@
+Comparing dirA and dirB
+
+Only in dirA:
+  unique_a.txt
+
+Only in dirB:
+  unique_b.txt
+
+Common files:
+  common1.txt - same
+  common2.txt - different

@@ -1,0 +1,7 @@
+Log Report - 2026-02-03
+File: sample.log
+
+Total:       10
+INFO: 4
+WARNING: 3
+ERROR: 3
